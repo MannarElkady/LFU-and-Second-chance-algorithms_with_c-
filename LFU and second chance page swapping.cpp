@@ -1,7 +1,7 @@
 #include<iostream>
 #include <stdlib.h>     //library of random number
 using namespace std;
-//Frames = 3 .. random sequence .. length of seq = 8
+//Frames = 3 .. random sequence generator
 
 #define numFrames 3
 int numOfPages;
